@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740650569741",
+    "project_id": "face-swap-7e1d5",
+    "storage_bucket": "face-swap-7e1d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740650569741:android:0294dd363e89aff6cfc544",
+        "android_client_info": {
+          "package_name": "com.example.face_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7X8pCqFDELt6c7iPtztE_DtwYzm9SNSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
